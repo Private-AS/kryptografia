@@ -1,0 +1,1 @@
+rozmiar macierzy: 23x23

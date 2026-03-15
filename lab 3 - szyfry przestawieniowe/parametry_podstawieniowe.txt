@@ -1,0 +1,6 @@
+-macierz 23x23
+-LTC
+-spacje i znaki specjalne wpisywane do macierzy
+-uzupepłaninie macierzy spacjami gdy tekst jest za krótki (tak jest w narzędziu webowym)
+
+Tekst zaszyfrowany samodzielnie zgadza się z tym zaszyfrowanym narzędziem

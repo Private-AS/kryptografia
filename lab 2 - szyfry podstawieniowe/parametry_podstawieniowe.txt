@@ -1,0 +1,3 @@
+-repeat key
+-all lowercase
+-ignore all foreign characters (space, punctuation marks, etc)
